@@ -1,9 +1,21 @@
-This repository contains the source for my personal website.
+# Fisher Armstrong
 
-The site functions as a lightweight hub for the projects I’m actively working on: motorsports research, documentary photography, software systems, and writing.
+Personal site and blog — my writing, current projects, and what I use, and believe in.
 
-If Questions about the site: FishTankTech@Gmail.com
+**Live site:** [thefisherarmstrong.xyz](https://thefisherarmstrong.xyz)
 
-If Questions about me: AssortedNonsense@firemail.cc
+## Tech Stack
 
-Designed and built under FishTankTech.
+HTML / CSS / vanilla JS
+
+## License
+
+All rights reserved. Proprietary to Fisher Armstrong — not to be reused or redistributed without permission.
+
+- If Questions about the site: FishTankTech@Gmail.com
+
+- If Questions about me: AssortedNonsense@firemail.cc
+
+---
+
+<sub>Part of the **FishTankTech** network
